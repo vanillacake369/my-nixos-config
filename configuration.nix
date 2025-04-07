@@ -135,8 +135,13 @@
     # Applications
     google-chrome
     jetbrains.idea-ultimate
+    jetbrains.goland
     # Multigesture on touchpad 
     fusuma
+    # Programming Languages
+    go
+    zulu17
+    youtube-music
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
